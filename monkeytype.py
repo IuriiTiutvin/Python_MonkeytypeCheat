@@ -1,4 +1,4 @@
-import threading as thread
+import threading
 import keyboard as k
 from selenium import webdriver
 import re
@@ -19,10 +19,18 @@ def main():
         list = html()
         webdriver.ActionChains(driver).send_keys(''.join(list)).perform()
 
-if k.is_pressed(['tab', 'shift']):
-    main()
+def restart():
+    while True:
+        if k.is_pressed(['p', 'o']):
+            print("u gau")
+            main()
 
+thread = threading.Thread(target = restart)
+thread.start()
+#thread.join()
+
+t.sleep(1)
 main()
-t.sleep(2)
+t.sleep(5)
 driver.save_screenshot("screenshot.png")
 #driver.quit()
