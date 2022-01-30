@@ -2,9 +2,9 @@ import keyboard
 import time
 from selenium import webdriver
 import re
+import pyautogui as p
 
-
-driver = webdriver.Chrome('/Users/yura/Downloads/chromedriver')
+driver = webdriver.Chrome('/Users/siavash/github/Python/chromedriver')
 driver.get("http://monkeytype.com")
 
 def html():
@@ -18,10 +18,17 @@ def html():
 
 list = html()
 #print(list)
+
 def type():
     global list
     webdriver.ActionChains(driver).send_keys(list[0]).perform()
     list = list[1:]
+
+p.keyDown('command')
+p.press('tab')
+p.press('tab')
+p.press('tab')
+p.keyUp('command')
 
 while True:
     if keyboard.is_pressed('a'):
