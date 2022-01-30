@@ -2,7 +2,7 @@ import threading
 import keyboard as k
 from selenium import webdriver
 import re
-import time as t
+import time
 
 driver = webdriver.Chrome('/Users/siavash/github/Python/chromedriver')
 driver.get("http://monkeytype.com")
@@ -16,21 +16,18 @@ def html():
 
 def main():
     for i in range(0, 6):
+        #time.sleep(0.5)
         list = html()
         webdriver.ActionChains(driver).send_keys(''.join(list)).perform()
-
+'''
 def restart():
     while True:
-        if k.is_pressed(['p', 'o']):
-            print("u gau")
+        if k.is_pressed(['tab', 'return']):
             main()
+            driver.save_screenshot("screenshot.png")
+'''
 
-thread = threading.Thread(target = restart)
-thread.start()
-#thread.join()
-
-t.sleep(1)
-main()
-t.sleep(5)
-driver.save_screenshot("screenshot.png")
-#driver.quit()
+if __name__ == '__main__':
+    main()
+    driver.save_screenshot("screenshot.png")
+    driver.quit()
