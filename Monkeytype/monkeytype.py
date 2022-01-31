@@ -1,10 +1,9 @@
-import threading
 import keyboard as k
 from selenium import webdriver
 import re
 import time
 
-driver = webdriver.Chrome('/Users/siavash/github/Python/chromedriver')
+driver = webdriver.Chrome('/Users/yura/Desktop/Python/chromedriver')
 driver.get("http://monkeytype.com")
 
 def html():
@@ -23,6 +22,7 @@ def main():
 def restart():
     while True:
         if k.is_pressed(['tab', 'return']):
+            print("u gau")
             main()
             driver.save_screenshot("screenshot.png")
 '''

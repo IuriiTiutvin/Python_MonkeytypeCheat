@@ -4,23 +4,26 @@ from selenium import webdriver
 import re
 import pyautogui as p
 
-driver = webdriver.Chrome('/Users/siavash/github/Python/chromedriver')
+
+driver = webdriver.Chrome('/Users/yura/Desktop/Python/chromedriver')
 driver.get("http://monkeytype.com")
 
 def html():
-    result = driver.page_source.partition("""class="word active""")[2].partition("""class="keymap hidden staggered""")[0]
-    result = re.sub(" ", '', result)
+    result = driver.page_source.partition("""class="word active""")[2].partition("""class="keymap hidden""")[0]
     result = re.sub("""class="word""", '> <', result)
-    x = re.findall(r"\>([a-z ])\<", result)[:-31]
+    x = re.findall(r"\>([a-z ])\<", result)
     x.append(' ')
     return x
-
 
 list = []
 #print(list)
 
 def type():
     global list
+    #may edit this time.sleep() to your liking
+    #makes it seem more realistic
+    #0.03 has a max speed of 240(for reference)
+    time.sleep(0.03)
     if len(list) == 0:
         list = html()
     webdriver.ActionChains(driver).send_keys(list[0]).perform()
