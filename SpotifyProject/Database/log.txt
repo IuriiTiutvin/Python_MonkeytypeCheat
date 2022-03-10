@@ -1,0 +1,1251 @@
+FAILURE: <*-<&AUDITION Boys>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<(G)I-DLE>-*> was not found, contains unexpected charecters: :?:(e)) Bp) B=:?:
+SUCCESS: <*-<015B>-*> was found, coping songs
+FAILURE: <*-<05Class>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<100%>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<10X10>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<14U>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<15&>-*> was not found, contains unexpected charecters: :?:15&:?:
+SUCCESS: <*-<1NB>-*> was found, coping songs
+SUCCESS: <*-<1PS>-*> was found, coping songs
+FAILURE: <*-<1PS>-*> #?#<3 albums#?#
+SUCCESS: <*-<1TEAM>-*> was found, coping songs
+FAILURE: <*-<1THE9>-*> was not found, instead found #?#1THES#?#
+SUCCESS: <*-<1TYM>-*> was found, coping songs
+FAILURE: <*-<2000 Won>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<24Hours>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<24K>-*> was not found, instead found #?#24kGoldn#?#
+FAILURE: <*-<2AM>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<2EYES>-*> was found, coping songs
+FAILURE: <*-<2EYES>-*> #?#<3 albums#?#
+SUCCESS: <*-<2NB>-*> was found, coping songs
+SUCCESS: <*-<2NE1>-*> was found, coping songs
+SUCCESS: <*-<2PM>-*> was found, coping songs
+FAILURE: <*-<2Yoon>-*> was not found, instead found #?#Pd (eye) 4)#?#
+FAILURE: <*-<2Z>-*> was not found, instead found #?##?#
+FAILURE: <*-<3YE>-*> was not found, instead found #?#SYE#?#
+SUCCESS: <*-<4CARAT>-*> was found, coping songs
+FAILURE: <*-<4CARAT>-*> #?#<3 albums#?#
+FAILURE: <*-<4G>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<4L>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<4MEN>-*> was found, coping songs
+SUCCESS: <*-<4Minute>-*> was found, coping songs
+FAILURE: <*-<4Minute>-*> #?#<3 albums#?#
+FAILURE: <*-<4SOME>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<4TEN>-*> was found, coping songs
+FAILURE: <*-<4TEN>-*> #?#<3 albums#?#
+FAILURE: <*-<4Tomorrow>-*> was not found, instead found #?#4 tomorrow#?#
+FAILURE: <*-<5URPRISE>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<5tion>-*> was found, coping songs
+SUCCESS: <*-<7Princess>-*> was found, coping songs
+FAILURE: <*-<7Princess>-*> #?#<3 albums#?#
+FAILURE: <*-<84LY>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<8Eight>-*> was not found, instead found #?#SEight#?#
+FAILURE: <*-<9MUSES>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<A Train To Autumn>-*> was not found, instead found #?#Atrain to autumn#?#
+FAILURE: <*-<A'ST1>-*> was not found, contains unexpected charecters: :?:A’st1:?:
+SUCCESS: <*-<A-DEAN>-*> was found, coping songs
+FAILURE: <*-<A-DEAN>-*> #?#<3 albums#?#
+FAILURE: <*-<A-Daily>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<A-Fati>-*> was found, coping songs
+FAILURE: <*-<A-Fati>-*> #?#<3 albums#?#
+SUCCESS: <*-<A-Feel>-*> was found, coping songs
+FAILURE: <*-<A-Feel>-*> #?#<3 albums#?#
+SUCCESS: <*-<A-JAX>-*> was found, coping songs
+SUCCESS: <*-<A-PRINCE>-*> was found, coping songs
+FAILURE: <*-<A-PRINCE>-*> #?#<3 albums#?#
+SUCCESS: <*-<A-Plus>-*> was found, coping songs
+SUCCESS: <*-<A-seed>-*> was found, coping songs
+FAILURE: <*-<A-seed>-*> #?#<3 albums#?#
+FAILURE: <*-<A.B.O.>-*> was not found, instead found #?#A.B.O.B. Music#?#
+SUCCESS: <*-<A.C.E>-*> was found, coping songs
+FAILURE: <*-<A.De>-*> was not found, contains unexpected charecters: :?:yAXe(-1 (<1:?:
+FAILURE: <*-<A.FACT>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<A.H.H.A>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<A.I.N>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<A.KOR>-*> was not found, instead found #?#A.KOR BLACK#?#
+FAILURE: <*-<A.SOME>-*> was not found, instead found #?#Asome.D#?#
+FAILURE: <*-<A.cian>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<A.sia>-*> was not found, instead found #?#PANS F-)#?#
+SUCCESS: <*-<A6P>-*> was found, coping songs
+FAILURE: <*-<A6P>-*> #?#<3 albums#?#
+FAILURE: <*-<AA>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<AB6IX>-*> was found, coping songs
+SUCCESS: <*-<ABLUE>-*> was found, coping songs
+FAILURE: <*-<ABLUE>-*> #?#<3 albums#?#
+SUCCESS: <*-<ABRY>-*> was found, coping songs
+FAILURE: <*-<ACE>-*> was not found, instead found #?#A.C.E#?#
+FAILURE: <*-<AGirls>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<AKMU>-*> was found, coping songs
+FAILURE: <*-<AL>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<ALL-STAR>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<ALLS-GIRL>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<ALPHA RAY>-*> was found, coping songs
+FAILURE: <*-<ALiKE>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<AMOR>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<AMX NEWKIDS>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<ANDS>-*> was not found, instead found #?#Anderson .Paak#?#
+FAILURE: <*-<ANS>-*> was not found, instead found #?#tS#?#
+FAILURE: <*-<AOA>-*> was not found, contains unexpected charecters: :?:p\ey.N:?:
+FAILURE: <*-<AOA Cream>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<API>-*> was not found, instead found #?#PVeyinl#?#
+FAILURE: <*-<APL>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<APRIL>-*> was found, coping songs
+FAILURE: <*-<AQA>-*> was not found, instead found #?##?#
+SUCCESS: <*-<AQUA>-*> was found, coping songs
+FAILURE: <*-<AREAL>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<ARGON>-*> was found, coping songs
+SUCCESS: <*-<ARIAZ>-*> was found, coping songs
+FAILURE: <*-<ASHA>-*> was not found, instead found #?#Ashanti#?#
+SUCCESS: <*-<ASTIN>-*> was found, coping songs
+FAILURE: <*-<ASTIN>-*> #?#<3 albums#?#
+FAILURE: <*-<ASTORY BOYS>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<ASTRO>-*> was found, coping songs
+FAILURE: <*-<ATEEN>-*> was not found, instead found #?#ATEEZ#?#
+SUCCESS: <*-<ATEEZ>-*> was found, coping songs
+SUCCESS: <*-<ATO6>-*> was found, coping songs
+FAILURE: <*-<ATO6>-*> #?#<3 albums#?#
+FAILURE: <*-<AWEEK>-*> was not found, instead found #?#ATEEZ#?#
+FAILURE: <*-<AWESOME>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<AZM>-*> was not found, instead found #?#VAN)#?#
+SUCCESS: <*-<AboutU>-*> was found, coping songs
+FAILURE: <*-<Aespa>-*> was not found, contains unexpected charecters: :?:FY =1-) of):?:
+SUCCESS: <*-<After School>-*> was found, coping songs
+SUCCESS: <*-<AiRiSU>-*> was found, coping songs
+FAILURE: <*-<AiRiSU>-*> #?#<3 albums#?#
+FAILURE: <*-<Aila>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Alice White>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<AllDayz>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Almeng>-*> was not found, contains unexpected charecters: :?:\Taat-lare,:?:
+SUCCESS: <*-<AlphaBAT>-*> was found, coping songs
+FAILURE: <*-<Another Level>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Apeace>-*> was found, coping songs
+FAILURE: <*-<Apeace>-*> #?#<3 albums#?#
+FAILURE: <*-<Apink>-*> was not found, instead found #?#PVeyinl#?#
+FAILURE: <*-<Apple.B>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<April Kiss>-*> was found, coping songs
+FAILURE: <*-<April Kiss>-*> #?#<3 albums#?#
+SUCCESS: <*-<As One>-*> was found, coping songs
+FAILURE: <*-<AshGray>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Asia girlS>-*> was not found, instead found #?#PANS Weta ts)#?#
+SUCCESS: <*-<Asome.D>-*> was found, coping songs
+FAILURE: <*-<Asome.D>-*> #?#<3 albums#?#
+SUCCESS: <*-<Aurora>-*> was found, coping songs
+FAILURE: <*-<Aurora>-*> #?#<3 albums#?#
+FAILURE: <*-<Awe5ome Baby>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<AxisB>-*> was found, coping songs
+FAILURE: <*-<AxisB>-*> #?#<3 albums#?#
+SUCCESS: <*-<Azer>-*> was found, coping songs
+SUCCESS: <*-<Azer Blossom>-*> was found, coping songs
+FAILURE: <*-<Azer Blossom>-*> #?#<3 albums#?#
+FAILURE: <*-<B Girls>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<B.A.P>-*> was found, coping songs
+FAILURE: <*-<B.HEART>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<B.I.G>-*> was found, coping songs
+FAILURE: <*-<B.I.T>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<B.O.B>-*> was found, coping songs
+FAILURE: <*-<B.O.Y>-*> was not found, instead found #?#B Of You (B.O.Y)#?#
+FAILURE: <*-<B.O.i>-*> was not found, instead found #?#B.o.B#?#
+SUCCESS: <*-<B1A4>-*> was found, coping songs
+FAILURE: <*-<BABYMONSTER>-*> was not found, instead found #?#Baby Monster#?#
+SUCCESS: <*-<BADKIZ>-*> was found, coping songs
+FAILURE: <*-<BAE173>-*> was not found, contains unexpected charecters: :?:Sy AN =i A):?:
+FAILURE: <*-<BAIKAL>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<BBURECTOR>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<BDC>-*> was not found, contains unexpected charecters: :?:5) BL @s:?:
+FAILURE: <*-<BEATWIN>-*> was not found, instead found #?#BEAT WIN#?#
+FAILURE: <*-<BEBE6>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<BECZ>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<BELLA4>-*> was not found, instead found #?#Bella Poarch#?#
+SUCCESS: <*-<BESTie>-*> was found, coping songs
+FAILURE: <*-<BF>-*> was not found, instead found #?##?#
+SUCCESS: <*-<BIGBANG>-*> was found, coping songs
+FAILURE: <*-<BIGFLO>-*> was not found, contains unexpected charecters: :?:Bigflo & Oli:?:
+FAILURE: <*-<BLACK6IX>-*> was not found, contains unexpected charecters: :?:1s) MAN @2 (<2) ):?:
+SUCCESS: <*-<BLACKPINK>-*> was found, coping songs
+FAILURE: <*-<BLACKPINK>-*> #?#<3 albums#?#
+SUCCESS: <*-<BLACKSWAN>-*> was found, coping songs
+FAILURE: <*-<BLACKSWAN>-*> #?#<3 albums#?#
+FAILURE: <*-<BLANC7>-*> was not found, instead found #?#BLACKPINK#?#
+FAILURE: <*-<BLANK2Y>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<BLAST>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<BLASTAR>-*> was found, coping songs
+FAILURE: <*-<BLASTAR>-*> #?#<3 albums#?#
+SUCCESS: <*-<BLITZERS>-*> was found, coping songs
+SUCCESS: <*-<BLK>-*> was found, coping songs
+SUCCESS: <*-<BONUSbaby>-*> was found, coping songs
+FAILURE: <*-<BONUSbaby>-*> #?#<3 albums#?#
+SUCCESS: <*-<BOTOPASS>-*> was found, coping songs
+FAILURE: <*-<BOTOPASS>-*> #?#<3 albums#?#
+FAILURE: <*-<BOYS24>-*> was not found, instead found #?#boys24.#?#
+FAILURE: <*-<BP POP>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<BRANDNEWZ>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<BTL>-*> was not found, instead found #?#BTS#?#
+SUCCESS: <*-<BTS>-*> was found, coping songs
+FAILURE: <*-<BUILD UP>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<BULLDOK>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<BVNDIT>-*> was found, coping songs
+FAILURE: <*-<BYUL, DAL>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<BaBa>-*> was found, coping songs
+FAILURE: <*-<Baby Blue>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Baby Boo>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Baby V.O.X>-*> was not found, contains unexpected charecters: :?:sic] A@),¢:?:
+FAILURE: <*-<Baby V.O.X Re.V>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Baby Vox>-*> was not found, contains unexpected charecters: :?:sic] A@),¢:?:
+FAILURE: <*-<Baby Vox Re.V>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Baechigi>-*> was found, coping songs
+FAILURE: <*-<Bambino>-*> was not found, contains unexpected charecters: :?:Tito "El Bambino":?:
+FAILURE: <*-<Banana Culture Newkid>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Bandage>-*> was found, coping songs
+FAILURE: <*-<Bastarz>-*> was not found, instead found #?#Block B - BASTARZ#?#
+FAILURE: <*-<Battle>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Bay.B>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Be.A>-*> was found, coping songs
+SUCCESS: <*-<BeBe Mignon>-*> was found, coping songs
+FAILURE: <*-<BeBe Mignon>-*> #?#<3 albums#?#
+SUCCESS: <*-<Beauty Box>-*> was found, coping songs
+FAILURE: <*-<Beauty Box>-*> #?#<3 albums#?#
+FAILURE: <*-<Bebop>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Benjil Benjil>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Berry Chu>-*> was not found, instead found #?#Chuck Berry#?#
+SUCCESS: <*-<BerryGood>-*> was found, coping songs
+FAILURE: <*-<BgA>-*> was not found, instead found #?##?#
+FAILURE: <*-<Big Brain>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Big Mama>-*> was found, coping songs
+FAILURE: <*-<BigStar>-*> was not found, contains unexpected charecters: :?:Bigstar HJAE}:?:
+SUCCESS: <*-<Billlie>-*> was found, coping songs
+FAILURE: <*-<Billlie>-*> #?#<3 albums#?#
+FAILURE: <*-<Birthday>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Black Beat>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Black Bunny>-*> was found, coping songs
+FAILURE: <*-<Black Bunny>-*> #?#<3 albums#?#
+FAILURE: <*-<Black Level>-*> was not found, contains unexpected charecters: :?:31 Fler @ M=)"/-) |:?:
+FAILURE: <*-<Black Pearl>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Blady>-*> was found, coping songs
+FAILURE: <*-<Blady>-*> #?#<3 albums#?#
+FAILURE: <*-<Blah Blah>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Bling>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Bling Bling>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Block B>-*> was found, coping songs
+FAILURE: <*-<Block Chain>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Bloomy>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Blue Fox>-*> was found, coping songs
+FAILURE: <*-<BlueMint>-*> was not found, instead found #?#Blueming#?#
+FAILURE: <*-<Bob Girls>-*> was not found, instead found #?#sYo) eh als#?#
+FAILURE: <*-<Bohemian>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Bolbbalgan4>-*> was not found, contains unexpected charecters: :?:= }@):?:
+SUCCESS: <*-<Boyfriend>-*> was found, coping songs
+FAILURE: <*-<Boys Generally Asian>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Boys Republic>-*> was found, coping songs
+FAILURE: <*-<Brand New Day>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Brave Girls>-*> was found, coping songs
+SUCCESS: <*-<Brown Eyed Girls>-*> was found, coping songs
+SUCCESS: <*-<Brown Eyed Soul>-*> was found, coping songs
+FAILURE: <*-<Brown Eyes>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<BtoB>-*> was found, coping songs
+SUCCESS: <*-<BtoB 4U>-*> was found, coping songs
+FAILURE: <*-<BtoB 4U>-*> #?#<3 albums#?#
+FAILURE: <*-<BtoB Blue>-*> was not found, instead found #?#BTOB-BLUE#?#
+FAILURE: <*-<Bubble>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<BugAboo>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Bulldog Mansion>-*> was found, coping songs
+FAILURE: <*-<Burvey>-*> was not found, contains unexpected charecters: :?:Burvey 41H]:?:
+SUCCESS: <*-<Busters>-*> was found, coping songs
+SUCCESS: <*-<Buzz>-*> was found, coping songs
+FAILURE: <*-<Bye Bye Sea>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Byeolmuri>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Byulzzi>-*> was found, coping songs
+FAILURE: <*-<Byulzzi>-*> #?#<3 albums#?#
+SUCCESS: <*-<Bz-Boys>-*> was found, coping songs
+FAILURE: <*-<C On H>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<C-CLOWN>-*> was found, coping songs
+SUCCESS: <*-<C-REAL>-*> was found, coping songs
+FAILURE: <*-<C.I.V.A>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<C.O.C>-*> was not found, instead found #?#Corrosion Of Conformity#?#
+FAILURE: <*-<CAMILA>-*> was not found, instead found #?#Camila Cabello#?#
+SUCCESS: <*-<CHECKMATE>-*> was found, coping songs
+FAILURE: <*-<CHECKMATE>-*> #?#<3 albums#?#
+SUCCESS: <*-<CHERRY ON TOP>-*> was found, coping songs
+FAILURE: <*-<CHERRY ON TOP>-*> #?#<3 albums#?#
+FAILURE: <*-<CHI CHI>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<CHIC&IDLE>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<CICI>-*> was found, coping songs
+SUCCESS: <*-<CIX>-*> was found, coping songs
+FAILURE: <*-<CLC>-*> was not found, contains unexpected charecters: :?:\e; Ke::?:
+FAILURE: <*-<CLEO>-*> was not found, contains unexpected charecters: :?:(@: [-Yo):?:
+FAILURE: <*-<CLIMIX BOYGROUP>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<CN19>-*> was found, coping songs
+FAILURE: <*-<CN19>-*> #?#<3 albums#?#
+FAILURE: <*-<CNBLUE>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<CNEMA>-*> was not found, instead found #?#CNBLUE#?#
+SUCCESS: <*-<CODE-V>-*> was found, coping songs
+FAILURE: <*-<CODE-V>-*> #?#<3 albums#?#
+SUCCESS: <*-<CRAVITY>-*> was found, coping songs
+SUCCESS: <*-<CRAXILVER>-*> was found, coping songs
+FAILURE: <*-<CRAXILVER>-*> #?#<3 albums#?#
+SUCCESS: <*-<CRAXY>-*> was found, coping songs
+SUCCESS: <*-<CROSS GENE>-*> was found, coping songs
+FAILURE: <*-<CST>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Can>-*> was not found, contains unexpected charecters: :?:@r-Tatr=)g els) ae):?:
+FAILURE: <*-<Carcaro Girl>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Celeb Five>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Chakra>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Challenger>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Champs>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Cheatcode>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Cherish>-*> was found, coping songs
+SUCCESS: <*-<Cherry Bullet>-*> was found, coping songs
+FAILURE: <*-<Cherry Filter>-*> was not found, instead found #?#CHERRYFILTER#?#
+FAILURE: <*-<Chic Angel>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Chloris>-*> was found, coping songs
+FAILURE: <*-<Chloris>-*> #?#<3 albums#?#
+FAILURE: <*-<ChoColat>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Cignature>-*> was found, coping songs
+SUCCESS: <*-<Ciipher>-*> was found, coping songs
+FAILURE: <*-<Circle>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Classmate>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Click-B>-*> was found, coping songs
+FAILURE: <*-<Clip>-*> was not found, instead found #?#Cl4pers#?#
+SUCCESS: <*-<Clover>-*> was found, coping songs
+FAILURE: <*-<CoCo>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<CocoSori>-*> was found, coping songs
+FAILURE: <*-<CocoSori>-*> #?#<3 albums#?#
+SUCCESS: <*-<Coed School>-*> was found, coping songs
+FAILURE: <*-<Coed School>-*> #?#<3 albums#?#
+FAILURE: <*-<Cooki>-*> was not found, instead found #?#DEVSISTERS#?#
+FAILURE: <*-<Cookie>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Cool>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Cotton Candy>-*> was found, coping songs
+FAILURE: <*-<Cotton Candy>-*> #?#<3 albums#?#
+FAILURE: <*-<Crayon Pop>-*> was not found, instead found #?#Orr: W/o) me) e)#?#
+FAILURE: <*-<Cupid>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<CutieL>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<D-CRUNCH>-*> was found, coping songs
+SUCCESS: <*-<D-Unit>-*> was found, coping songs
+SUCCESS: <*-<D-art>-*> was found, coping songs
+FAILURE: <*-<D-art>-*> #?#<3 albums#?#
+FAILURE: <*-<D.A.N>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<D.COY>-*> was not found, instead found #?#Dream#?#
+FAILURE: <*-<D.Holic>-*> was not found, contains unexpected charecters: :?:DR ale) | (es:?:
+SUCCESS: <*-<D.I.P>-*> was found, coping songs
+FAILURE: <*-<D.I.P>-*> #?#<3 albums#?#
+SUCCESS: <*-<D.T.E>-*> was found, coping songs
+FAILURE: <*-<D.T.E>-*> #?#<3 albums#?#
+SUCCESS: <*-<D.el>-*> was found, coping songs
+FAILURE: <*-<D.el>-*> #?#<3 albums#?#
+FAILURE: <*-<D1CE>-*> was not found, instead found #?#DICE#?#
+FAILURE: <*-<DAILY>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<DAY6>-*> was not found, instead found #?#BYAN 4c)#?#
+FAILURE: <*-<DAYDAY>-*> was not found, instead found #?#DTE Lil DayDay#?#
+FAILURE: <*-<DEJAVU>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<DELUXE>-*> was not found, contains unexpected charecters: :?:| DY=\[Epv<):?:
+FAILURE: <*-<DESTINY>-*> was not found, contains unexpected charecters: :?:Destiny's Child:?:
+SUCCESS: <*-<DGNA>-*> was found, coping songs
+FAILURE: <*-<DGNA>-*> #?#<3 albums#?#
+SUCCESS: <*-<DIA>-*> was found, coping songs
+FAILURE: <*-<DICE>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<DKB>-*> was found, coping songs
+FAILURE: <*-<DMTN>-*> was not found, instead found #?#Dalmatian#?#
+FAILURE: <*-<DMZA>-*> was not found, instead found #?#DMAD#?#
+SUCCESS: <*-<DONGKIZ>-*> was found, coping songs
+FAILURE: <*-<DPOP Friends>-*> was not found, contains unexpected charecters: :?:1D) @) om wi al=vale ls:?:
+FAILURE: <*-<DREAMER>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<DRIPPIN>-*> was found, coping songs
+FAILURE: <*-<DUSTIN>-*> was not found, instead found #?#Dustin Lynch#?#
+FAILURE: <*-<Daily H Boys>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Dalshabet>-*> was not found, contains unexpected charecters: :?:DY: |(=)"4:?:
+FAILURE: <*-<Davichi>-*> was not found, instead found #?#DaBaby#?#
+FAILURE: <*-<DayDream>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Delight>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Deux>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Dimepiece>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Diva>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Dorothy>-*> was found, coping songs
+FAILURE: <*-<Dorothy>-*> #?#<3 albums#?#
+SUCCESS: <*-<Double Eight>-*> was found, coping songs
+FAILURE: <*-<Double Eight>-*> #?#<3 albums#?#
+FAILURE: <*-<Double S 301>-*> was not found, contains unexpected charecters: :?:| DYo} Uo) (- Boye) OF |:?:
+FAILURE: <*-<Dream Candy>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Dream Girl>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<DreamNote>-*> was found, coping songs
+FAILURE: <*-<Dreamcatcher>-*> was not found, instead found #?#Dream#?#
+FAILURE: <*-<Drunken Tiger>-*> was not found, contains unexpected charecters: :?:Dy aU lal s<clabeysll(eve:?:
+FAILURE: <*-<Dynamic Duo>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<E'LAST>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<E2RE>-*> was found, coping songs
+FAILURE: <*-<E2RE>-*> #?#<3 albums#?#
+FAILURE: <*-<E7>-*> was not found, instead found #?#e7i#?#
+SUCCESS: <*-<ELRIS>-*> was found, coping songs
+FAILURE: <*-<ELVIN CREW>-*> was not found, instead found #?#Elvis Crespo#?#
+SUCCESS: <*-<ENHYPEN>-*> was found, coping songs
+SUCCESS: <*-<ENOi>-*> was found, coping songs
+FAILURE: <*-<EPEX>-*> was not found, contains unexpected charecters: :?:a ad =D,:?:
+SUCCESS: <*-<EVERGLOW>-*> was found, coping songs
+FAILURE: <*-<EVERMORE MUSE>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<EXID>-*> was not found, contains unexpected charecters: :?:=>.4 1B):?:
+FAILURE: <*-<EXO>-*> was not found, contains unexpected charecters: :?:= (@):?:
+SUCCESS: <*-<EXP EDITION>-*> was found, coping songs
+FAILURE: <*-<EXP EDITION>-*> #?#<3 albums#?#
+FAILURE: <*-<Ela8te>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Elado>-*> was not found, contains unexpected charecters: :?:SI F-Ye [fom @r-laale) a):?:
+FAILURE: <*-<Enue>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Epik High>-*> was found, coping songs
+FAILURE: <*-<Episode>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Eternity>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Even of Day>-*> was not found, instead found #?#DAY6 (Even of Day)#?#
+FAILURE: <*-<EvoL>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Exo-CBX>-*> was not found, contains unexpected charecters: :?:=) (Oi 01;).4:?:
+SUCCESS: <*-<Exo-SC>-*> was found, coping songs
+FAILURE: <*-<F(x)>-*> was not found, instead found #?##?#
+FAILURE: <*-<F-iV>-*> was not found, instead found #?#a AVA#?#
+FAILURE: <*-<F-ve Dolls>-*> was not found, contains unexpected charecters: :?:| eAY(-4 Do) | [3:?:
+SUCCESS: <*-<F.CUZ>-*> was found, coping songs
+SUCCESS: <*-<F.O.X>-*> was found, coping songs
+FAILURE: <*-<F.O.X>-*> #?#<3 albums#?#
+FAILURE: <*-<F.T. Island>-*> was not found, instead found #?#FTISLAND#?#
+SUCCESS: <*-<F.able>-*> was found, coping songs
+FAILURE: <*-<F.able>-*> #?#<3 albums#?#
+FAILURE: <*-<F1RST>-*> was not found, instead found #?#Sal eci teats al#?#
+FAILURE: <*-<FALLANC>-*> was not found, instead found #?#Falling In Reverse#?#
+FAILURE: <*-<FANATICS>-*> was not found, instead found #?#WAN ANE Oss)#?#
+SUCCESS: <*-<FANXY CHILD>-*> was found, coping songs
+FAILURE: <*-<FANXY CHILD>-*> #?#<3 albums#?#
+SUCCESS: <*-<FAVORITE>-*> was found, coping songs
+SUCCESS: <*-<FIESTAR>-*> was found, coping songs
+FAILURE: <*-<FIONA>-*> was not found, contains unexpected charecters: :?:ai feyar: Wave) e) (=):?:
+FAILURE: <*-<FLASHE>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<FTISLAND>-*> was found, coping songs
+FAILURE: <*-<Fainit>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<FameUs>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Fantastie>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Fanxy Red>-*> was found, coping songs
+FAILURE: <*-<Fanxy Red>-*> #?#<3 albums#?#
+SUCCESS: <*-<Ferry Blue>-*> was found, coping songs
+FAILURE: <*-<Ferry Blue>-*> #?#<3 albums#?#
+SUCCESS: <*-<Fin.K.L>-*> was found, coping songs
+FAILURE: <*-<Flor us>-*> was not found, instead found #?#flor.us#?#
+FAILURE: <*-<Floria>-*> was not found, instead found #?#Florida Georgia Line#?#
+FAILURE: <*-<Flossom>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Fly to the Sky>-*> was found, coping songs
+SUCCESS: <*-<FlyWithMe>-*> was found, coping songs
+FAILURE: <*-<FlyWithMe>-*> #?#<3 albums#?#
+FAILURE: <*-<Flying Girls>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Forestella>-*> was found, coping songs
+FAILURE: <*-<Forte di Quattro>-*> was not found, contains unexpected charecters: :?:elac-WelR@lUr-jaice):?:
+FAILURE: <*-<Fromis 9>-*> was not found, contains unexpected charecters: :?:fromis_9:?:
+FAILURE: <*-<G-(i)Kon>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<G-reyish>-*> was found, coping songs
+FAILURE: <*-<GAIA>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<GBB>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<GD & TOP>-*> was not found, contains unexpected charecters: :?:GD&TOP:?:
+FAILURE: <*-<GD X Taeyang>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<GFRIEND>-*> was found, coping songs
+SUCCESS: <*-<GHOST9>-*> was found, coping songs
+FAILURE: <*-<GI>-*> was not found, contains unexpected charecters: :?:(e)) Bp) B=:?:
+FAILURE: <*-<GIDONGDAE>-*> was not found, contains unexpected charecters: :?:1 /BL@) ie 1PyAN =:?:
+SUCCESS: <*-<GIG>-*> was found, coping songs
+FAILURE: <*-<GIRL CRUSH>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<GIRLFrND>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<GIRLKIND>-*> was found, coping songs
+SUCCESS: <*-<GIRLS GIRLS>-*> was found, coping songs
+FAILURE: <*-<GIRLS GIRLS>-*> #?#<3 albums#?#
+FAILURE: <*-<GLAM>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<GLOSS>-*> was not found, instead found #?#G.L.O.S.S.#?#
+FAILURE: <*-<GOOD DAY>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<GOT the beat>-*> was found, coping songs
+FAILURE: <*-<GOT the beat>-*> #?#<3 albums#?#
+SUCCESS: <*-<GOT7>-*> was found, coping songs
+SUCCESS: <*-<GP Basic>-*> was found, coping songs
+FAILURE: <*-<GP Basic>-*> #?#<3 albums#?#
+SUCCESS: <*-<GROW.B>-*> was found, coping songs
+FAILURE: <*-<GROW.B>-*> #?#<3 albums#?#
+SUCCESS: <*-<GWSN>-*> was found, coping songs
+FAILURE: <*-<Gangkiz>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Gavy NJ>-*> was found, coping songs
+SUCCESS: <*-<GeeGu>-*> was found, coping songs
+FAILURE: <*-<GeeGu>-*> #?#<3 albums#?#
+FAILURE: <*-<Girl Friends>-*> was not found, instead found #?#girlfriends#?#
+FAILURE: <*-<Girl's Day>-*> was not found, contains unexpected charecters: :?:Girl's Day:?:
+FAILURE: <*-<Girl2School>-*> was not found, contains unexpected charecters: :?:‘OTT ake ayeye) |:?:
+FAILURE: <*-<Girls Next Door>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Girls On Top>-*> was not found, instead found #?#GOT the beat#?#
+FAILURE: <*-<Girls' Generation>-*> was not found, contains unexpected charecters: :?:OT aweeT=valsvechuceyal:?:
+FAILURE: <*-<Girls' Generation-TTS>-*> was not found, contains unexpected charecters: :?:Girls' Generation-TTS:?:
+FAILURE: <*-<Girls2000>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Girls’ Generation>-*> was not found, contains unexpected charecters: :?:OT aweeT=valsvechuceyal:?:
+FAILURE: <*-<Girl’s Day>-*> was not found, contains unexpected charecters: :?:Girl's Day:?:
+FAILURE: <*-<God>-*> was not found, instead found #?#Godsmack#?#
+SUCCESS: <*-<Golden Child>-*> was found, coping songs
+FAILURE: <*-<Golden Child>-*> #?#<3 albums#?#
+FAILURE: <*-<Goofy>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<GreatGuys>-*> was found, coping songs
+SUCCESS: <*-<GsA>-*> was found, coping songs
+SUCCESS: <*-<Gugudan>-*> was found, coping songs
+SUCCESS: <*-<Gugudan SeMiNa>-*> was found, coping songs
+FAILURE: <*-<Gugudan SeMiNa>-*> #?#<3 albums#?#
+FAILURE: <*-<H Boyz>-*> was not found, instead found #?#Hp Boyz#?#
+FAILURE: <*-<H&D>-*> was not found, contains unexpected charecters: :?:H&D:?:
+SUCCESS: <*-<H.O.T.>-*> was found, coping songs
+SUCCESS: <*-<H.U.B>-*> was found, coping songs
+SUCCESS: <*-<H1-KEY>-*> was found, coping songs
+FAILURE: <*-<H1-KEY>-*> #?#<3 albums#?#
+FAILURE: <*-<H2L>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<HADY>-*> was not found, instead found #?#HARDY#?#
+FAILURE: <*-<HALO>-*> was not found, instead found #?##?#
+FAILURE: <*-<HAM>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<HBY>-*> was found, coping songs
+FAILURE: <*-<HBY>-*> #?#<3 albums#?#
+SUCCESS: <*-<HELLOVENUS>-*> was found, coping songs
+SUCCESS: <*-<HEXE>-*> was found, coping songs
+SUCCESS: <*-<HI CUTIE>-*> was found, coping songs
+FAILURE: <*-<HI CUTIE>-*> #?#<3 albums#?#
+SUCCESS: <*-<HIDDEN FOLDER>-*> was found, coping songs
+FAILURE: <*-<HIDDEN FOLDER>-*> #?#<3 albums#?#
+SUCCESS: <*-<HIGH4>-*> was found, coping songs
+FAILURE: <*-<HIGHTEEN>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<HINAPIA>-*> was found, coping songs
+FAILURE: <*-<HINAPIA>-*> #?#<3 albums#?#
+SUCCESS: <*-<HINT>-*> was found, coping songs
+SUCCESS: <*-<HISTORY>-*> was found, coping songs
+SUCCESS: <*-<HNB>-*> was found, coping songs
+FAILURE: <*-<HNB>-*> #?#<3 albums#?#
+FAILURE: <*-<HOLICS>-*> was not found, contains unexpected charecters: :?:a fe) [foxy:?:
+SUCCESS: <*-<HONEYST>-*> was found, coping songs
+SUCCESS: <*-<HOT ISSUE>-*> was found, coping songs
+FAILURE: <*-<HOT ISSUE>-*> #?#<3 albums#?#
+FAILURE: <*-<HOT TEEN>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<HOTSHOT>-*> was found, coping songs
+FAILURE: <*-<HOTTIES>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<HOWZ>-*> was not found, instead found #?#Hope#?#
+SUCCESS: <*-<HashTag>-*> was found, coping songs
+FAILURE: <*-<HashTag>-*> #?#<3 albums#?#
+FAILURE: <*-<Heart>-*> was found, coping songs
+FAILURE: <*-<HeartB>-*> was not found, instead found #?#Heart#?#
+FAILURE: <*-<Herycle>-*> was not found, instead found #?#Harry Styles#?#
+SUCCESS: <*-<HeyGirls>-*> was found, coping songs
+FAILURE: <*-<HeyGirls>-*> #?#<3 albums#?#
+SUCCESS: <*-<HeyMiss>-*> was found, coping songs
+FAILURE: <*-<HeyMiss>-*> #?#<3 albums#?#
+SUCCESS: <*-<Hi Suhyun>-*> was found, coping songs
+FAILURE: <*-<Hi Suhyun>-*> #?#<3 albums#?#
+SUCCESS: <*-<Hi-L>-*> was found, coping songs
+FAILURE: <*-<Hi-L>-*> #?#<3 albums#?#
+FAILURE: <*-<Hi.D>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Hibana>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Hidden>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<HighSchool>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Highlight>-*> was not found, instead found #?#alte lalite las#?#
+FAILURE: <*-<HitGirlz>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Holy Days>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Homme>-*> was found, coping songs
+FAILURE: <*-<Homme>-*> #?#<3 albums#?#
+SUCCESS: <*-<Honey G>-*> was found, coping songs
+FAILURE: <*-<Honey Girls>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Honey Popcorn>-*> was not found, contains unexpected charecters: :?:Lm (olat= "a me) elere) an):?:
+FAILURE: <*-<Hooni Yongi>-*> was not found, contains unexpected charecters: :?:La eXevalm (evare!|:?:
+FAILURE: <*-<Humming Urban Stereo>-*> was not found, instead found #?#HUS#?#
+FAILURE: <*-<Hwaiting>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Hwang Project>-*> was found, coping songs
+FAILURE: <*-<Hwang Project>-*> #?#<3 albums#?#
+FAILURE: <*-<Hyeongseop X Euiwoong>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Hyukoh>-*> was found, coping songs
+FAILURE: <*-<I& Girls>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<I-13>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<I-REX>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<I-Ren>-*> was not found, instead found #?#I, Renae#?#
+FAILURE: <*-<I.B.I>-*> was not found, instead found #?#LY.B.#?#
+FAILURE: <*-<I.C.E>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<I.G>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<I.O.I>-*> was not found, instead found #?#1.0.l#?#
+FAILURE: <*-<I.ONE>-*> was not found, instead found #?#IONE#?#
+FAILURE: <*-<ICECREAM>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<ICHILLIN'>-*> was not found, contains unexpected charecters: :?:ICHILLIN':?:
+FAILURE: <*-<ICHILLIN’>-*> was not found, contains unexpected charecters: :?:ICHILLIN':?:
+FAILURE: <*-<ICU>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<ILUV>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<ILY:1>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<IM>-*> was not found, instead found #?##?#
+SUCCESS: <*-<IMFACT>-*> was found, coping songs
+SUCCESS: <*-<IN2IT>-*> was found, coping songs
+SUCCESS: <*-<INFINITE>-*> was found, coping songs
+FAILURE: <*-<INX>-*> was not found, instead found #?#INXS#?#
+FAILURE: <*-<ITZY>-*> was not found, instead found #?#A#?#
+SUCCESS: <*-<IVE>-*> was found, coping songs
+FAILURE: <*-<IVE>-*> #?#<3 albums#?#
+FAILURE: <*-<IZ>-*> was not found, contains unexpected charecters: :?:EJ eeY=) Blanks) luiiuceke) (2):?:
+FAILURE: <*-<IZ*ONE>-*> was not found, contains unexpected charecters: :?:Fai @) 13:?:
+SUCCESS: <*-<Icia>-*> was found, coping songs
+FAILURE: <*-<Icia>-*> #?#<3 albums#?#
+FAILURE: <*-<Ilips>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Infinite F>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Infinite H>-*> was found, coping songs
+FAILURE: <*-<Infinite H>-*> #?#<3 albums#?#
+FAILURE: <*-<Inter Girls>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<J'Heart>-*> was not found, instead found #?#J.Heart#?#
+SUCCESS: <*-<J-Walk>-*> was found, coping songs
+FAILURE: <*-<JACE>-*> was not found, instead found #?#At F-Yox-)#?#
+SUCCESS: <*-<JBJ>-*> was found, coping songs
+SUCCESS: <*-<JBJ95>-*> was found, coping songs
+SUCCESS: <*-<JELLYGIRL>-*> was found, coping songs
+FAILURE: <*-<JELLYGIRL>-*> #?#<3 albums#?#
+SUCCESS: <*-<JJ Project>-*> was found, coping songs
+FAILURE: <*-<JJ Project>-*> #?#<3 albums#?#
+FAILURE: <*-<JJCC>-*> was not found, contains unexpected charecters: :?:nN | @: @:?:
+FAILURE: <*-<JN boy group>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<JQT>-*> was found, coping songs
+FAILURE: <*-<JQT>-*> #?#<3 albums#?#
+FAILURE: <*-<JTG Boys>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<JUO>-*> was not found, instead found #?#Juice WRLD#?#
+FAILURE: <*-<JUST B>-*> was not found, instead found #?#JUSTB#?#
+SUCCESS: <*-<JYJ>-*> was found, coping songs
+FAILURE: <*-<JYPE LOUD>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Jacoby Planet>-*> was found, coping songs
+FAILURE: <*-<Jeogori Sisters>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Jewelry>-*> was found, coping songs
+FAILURE: <*-<Jinjin & Rocky>-*> was not found, contains unexpected charecters: :?:JINJIN®ROCKY(ASTRO):?:
+FAILURE: <*-<Jjarimongttang>-*> was not found, instead found #?#Teelalaacedare ae-lare)#?#
+SUCCESS: <*-<JtL>-*> was found, coping songs
+FAILURE: <*-<Juliet>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Jus2>-*> was found, coping songs
+FAILURE: <*-<Just COLOR>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<K-Girls>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<K-TIGERS ZERO>-*> was found, coping songs
+FAILURE: <*-<K-TIGERS ZERO>-*> #?#<3 albums#?#
+SUCCESS: <*-<K/DA>-*> was found, coping songs
+FAILURE: <*-<KAACHI>-*> was not found, contains unexpected charecters: :?:L@AVAN@r a!:?:
+FAILURE: <*-<KARA>-*> was not found, instead found #?##?#
+SUCCESS: <*-<KARD>-*> was found, coping songs
+FAILURE: <*-<KDA>-*> was not found, instead found #?#K/DA#?#
+SUCCESS: <*-<KINGDOM>-*> was found, coping songs
+FAILURE: <*-<KISFive>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<KKD>-*> was not found, instead found #?#K/DA#?#
+SUCCESS: <*-<KNK>-*> was found, coping songs
+FAILURE: <*-<KOKOON>-*> was not found, instead found #?#Co) Coley)#?#
+FAILURE: <*-<Kamisama>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Kandis>-*> was not found, instead found #?#Kane Brown#?#
+FAILURE: <*-<Kangta & Vanness>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Kassia>-*> was found, coping songs
+FAILURE: <*-<Kep1er>-*> was not found, instead found #?#Kepter#?#
+FAILURE: <*-<Kim Heechul & Kim Jungmo>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<KingdomS>-*> was not found, contains unexpected charecters: :?:KINGD@MS:?:
+SUCCESS: <*-<Kirots>-*> was found, coping songs
+SUCCESS: <*-<Kiss>-*> was found, coping songs
+FAILURE: <*-<Kiss>-*> #?#<3 albums#?#
+FAILURE: <*-<Kiss&Cry>-*> was not found, contains unexpected charecters: :?:Kiss&Cry:?:
+FAILURE: <*-<Kitten Girls>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Kizuna Simulation>-*> was not found, instead found #?#drablatemevianlelereceyal#?#
+FAILURE: <*-<Koyote>-*> was not found, instead found #?#(eo) (O55#?#
+SUCCESS: <*-<LA POEM>-*> was found, coping songs
+SUCCESS: <*-<LABELUP>-*> was found, coping songs
+FAILURE: <*-<LABELUP>-*> #?#<3 albums#?#
+SUCCESS: <*-<LABOUM>-*> was found, coping songs
+FAILURE: <*-<LADIES' CODE>-*> was not found, contains unexpected charecters: :?:WV) | =~ O10) BD) 5:?:
+FAILURE: <*-<LALA GIRLS>-*> was not found, contains unexpected charecters: :?:LaLaGirl's:?:
+FAILURE: <*-<LAY.T>-*> was not found, instead found #?#Layton Greene#?#
+SUCCESS: <*-<LAYSHA>-*> was found, coping songs
+SUCCESS: <*-<LC9>-*> was found, coping songs
+FAILURE: <*-<LC9>-*> #?#<3 albums#?#
+SUCCESS: <*-<LIGHTSUM>-*> was found, coping songs
+FAILURE: <*-<LIMETREE>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<LIMITLESS>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<LIPBUBBLE>-*> was not found, instead found #?#lilbubblegum#?#
+FAILURE: <*-<LIVE HIGH>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<LOONA>-*> was found, coping songs
+FAILURE: <*-<LPG>-*> was not found, instead found #?##?#
+SUCCESS: <*-<LST>-*> was found, coping songs
+FAILURE: <*-<LST>-*> #?#<3 albums#?#
+SUCCESS: <*-<LU4US>-*> was found, coping songs
+FAILURE: <*-<LU4US>-*> #?#<3 albums#?#
+SUCCESS: <*-<LUCENTE>-*> was found, coping songs
+FAILURE: <*-<LUCENTE>-*> #?#<3 albums#?#
+FAILURE: <*-<LUMINOUS>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<LUNA>-*> was not found, instead found #?#Lunay#?#
+SUCCESS: <*-<LUNAFLY>-*> was found, coping songs
+SUCCESS: <*-<LUNARSOLAR>-*> was found, coping songs
+SUCCESS: <*-<LXIA>-*> was found, coping songs
+FAILURE: <*-<LXIA>-*> #?#<3 albums#?#
+FAILURE: <*-<La TTE>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Lady>-*> was not found, contains unexpected charecters: :?:E-Te WACT-\er-|:?:
+FAILURE: <*-<Lady Collection>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Lalary>-*> was found, coping songs
+FAILURE: <*-<Lalary>-*> #?#<3 albums#?#
+SUCCESS: <*-<Laonzena>-*> was found, coping songs
+FAILURE: <*-<Laonzena>-*> #?#<3 albums#?#
+FAILURE: <*-<Leader'S>-*> was not found, instead found #?#LiSA#?#
+FAILURE: <*-<Led Apple>-*> was not found, contains unexpected charecters: :?:|M=Yef-)e) e)(-):?:
+FAILURE: <*-<LedT>-*> was not found, instead found #?#Lefty Sm#?#
+FAILURE: <*-<Lemonade>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Lexa>-*> was found, coping songs
+FAILURE: <*-<Like A Movie>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Like Me>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Limesoda>-*> was not found, instead found #?#MT aatsxsxeye f)#?#
+FAILURE: <*-<Limit>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Lip Service>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Little Cheer Girl>-*> was not found, contains unexpected charecters: :?:Little Cheer Girl #12:?:
+FAILURE: <*-<Little Muse>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Littles>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Longguo & Shihyun>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Loona 1/3>-*> was not found, instead found #?#LOOTA 1/3#?#
+FAILURE: <*-<Loona Odd Eye Circle>-*> was not found, instead found #?#LOOMA / ODD EYE CIRCLE#?#
+FAILURE: <*-<Loona yyxy>-*> was not found, instead found #?#LOONA/yyxy#?#
+FAILURE: <*-<LoveUs>-*> was not found, contains unexpected charecters: :?:Re) ¥/-\ 0 FS:?:
+SUCCESS: <*-<Lovelyz>-*> was found, coping songs
+FAILURE: <*-<Luluz>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Luminous Elf>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Lusty>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Luv>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<M.Crown>-*> was not found, instead found #?#Crown Magnetar#?#
+FAILURE: <*-<M.I.L.K>-*> was not found, instead found #?#M.LA.#?#
+FAILURE: <*-<M.I.S.O>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<M.O.N.T>-*> was found, coping songs
+FAILURE: <*-<M4M>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<MADTOWN>-*> was found, coping songs
+FAILURE: <*-<MAJORS>-*> was not found, contains unexpected charecters: :?:WV PAN @] Sts):?:
+FAILURE: <*-<MAMAMOO>-*> was not found, contains unexpected charecters: :?:PANY PANY L@1@):?:
+SUCCESS: <*-<MAP6>-*> was found, coping songs
+FAILURE: <*-<MARMELLO>-*> was not found, contains unexpected charecters: :?:WPAN SAY | =| a @):?:
+SUCCESS: <*-<MARS>-*> was found, coping songs
+FAILURE: <*-<MARS>-*> #?#<3 albums#?#
+FAILURE: <*-<MASC>-*> was not found, contains unexpected charecters: :?:WV PANS @s:?:
+FAILURE: <*-<MATILDA>-*> was not found, instead found #?#WW Fest alaatsvice#?#
+FAILURE: <*-<MAXIMUM>-*> was not found, instead found #?##?#
+SUCCESS: <*-<MBLAQ>-*> was found, coping songs
+SUCCESS: <*-<MCND>-*> was found, coping songs
+SUCCESS: <*-<MEGAMAX>-*> was found, coping songs
+FAILURE: <*-<MEGAMAX>-*> #?#<3 albums#?#
+FAILURE: <*-<MERAMERAHEART>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<MIDNIGHT>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<MINIMANI>-*> was found, coping songs
+FAILURE: <*-<MINIMANI>-*> #?#<3 albums#?#
+SUCCESS: <*-<MINX>-*> was found, coping songs
+FAILURE: <*-<MINX>-*> #?#<3 albums#?#
+FAILURE: <*-<MIRAE>-*> was not found, instead found #?#MIRA#?#
+FAILURE: <*-<MIXX>-*> was not found, instead found #?##?#
+FAILURE: <*-<MOA>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<MOMOLAND>-*> was found, coping songs
+SUCCESS: <*-<MONSTA X>-*> was found, coping songs
+FAILURE: <*-<MONT>-*> was not found, instead found #?#M.O.N.T#?#
+SUCCESS: <*-<MOUNTAIN>-*> was found, coping songs
+FAILURE: <*-<MR.MR>-*> was not found, instead found #?#Mr. Mister#?#
+SUCCESS: <*-<MSG Wannabe>-*> was found, coping songs
+FAILURE: <*-<MSG Wannabe>-*> #?#<3 albums#?#
+FAILURE: <*-<MVP>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<MXM>-*> was not found, instead found #?#mxmtoon#?#
+SUCCESS: <*-<MY.st>-*> was found, coping songs
+FAILURE: <*-<MY.st>-*> #?#<3 albums#?#
+FAILURE: <*-<MYNAME>-*> was not found, instead found #?#WW Fest alaatsvice#?#
+FAILURE: <*-<MYTEEN>-*> was not found, instead found #?#WW Fest alaatsvice#?#
+FAILURE: <*-<Magic Girl>-*> was not found, instead found #?#WWiETelemelig#?#
+FAILURE: <*-<Maka'Maka>-*> was not found, instead found #?#Maka Maka#?#
+FAILURE: <*-<Mamadol>-*> was not found, instead found #?#WW Fest alaatsvice#?#
+FAILURE: <*-<MaskOT>-*> was not found, instead found #?#WW Fest alaatsvice#?#
+FAILURE: <*-<May Queen>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Maywish>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Melody Pink>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<MelodyDay>-*> was found, coping songs
+FAILURE: <*-<Mercury>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Milk>-*> was not found, instead found #?#Milky Chance#?#
+FAILURE: <*-<Milkyway>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Mini Little Cheer Girl>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Miss A>-*> was found, coping songs
+FAILURE: <*-<Miss S>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Monday Kiz>-*> was not found, instead found #?#WVilelaver: War#?#
+FAILURE: <*-<Moné>-*> was not found, instead found #?#Moneybagg Yo#?#
+FAILURE: <*-<Moonbin & Sanha>-*> was not found, contains unexpected charecters: :?:MOONBIN&SANHA(ASTRO) |:?:
+SUCCESS: <*-<Moonlight Girls>-*> was found, coping songs
+FAILURE: <*-<Moonlight Girls>-*> #?#<3 albums#?#
+SUCCESS: <*-<MustB>-*> was found, coping songs
+FAILURE: <*-<MustB>-*> #?#<3 albums#?#
+FAILURE: <*-<My Darling>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<MyB>-*> was not found, contains unexpected charecters: :?:O|H|:?:
+FAILURE: <*-<MyBling>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<N*White>-*> was found, coping songs
+FAILURE: <*-<N*White>-*> #?#<3 albums#?#
+FAILURE: <*-<N-Bulance>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<N-SONIC>-*> was not found, contains unexpected charecters: :?:I) Es} @])\ [es:?:
+SUCCESS: <*-<N-Train>-*> was found, coping songs
+FAILURE: <*-<N-Train>-*> #?#<3 albums#?#
+SUCCESS: <*-<N.CUS>-*> was found, coping songs
+FAILURE: <*-<N.CUS>-*> #?#<3 albums#?#
+SUCCESS: <*-<N.Flying>-*> was found, coping songs
+FAILURE: <*-<N.O.M>-*> was not found, instead found #?#LS RORY#?#
+SUCCESS: <*-<N.tic>-*> was found, coping songs
+FAILURE: <*-<N.tic>-*> #?#<3 albums#?#
+SUCCESS: <*-<NATURE>-*> was found, coping songs
+FAILURE: <*-<NCT>-*> was not found, instead found #?#NCT 127#?#
+SUCCESS: <*-<NELL>-*> was found, coping songs
+FAILURE: <*-<NEXTU>-*> was not found, instead found #?#NextupK#?#
+FAILURE: <*-<NINE.i>-*> was not found, instead found #?#I TTavem lakeva lh Fel L6#?#
+FAILURE: <*-<NMIXX>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<NOIR>-*> was found, coping songs
+FAILURE: <*-<NOM>-*> was not found, instead found #?#LS RORY#?#
+SUCCESS: <*-<NPI>-*> was found, coping songs
+FAILURE: <*-<NPI>-*> #?#<3 albums#?#
+FAILURE: <*-<NTB>-*> was not found, instead found #?#Ntb Slvtty#?#
+FAILURE: <*-<NTX>-*> was not found, instead found #?##?#
+FAILURE: <*-<NU'EST>-*> was not found, contains unexpected charecters: :?:NU'EST:?:
+FAILURE: <*-<NU'EST W>-*> was not found, contains unexpected charecters: :?:NU'EST W:?:
+SUCCESS: <*-<NUBOYZ>-*> was found, coping songs
+FAILURE: <*-<NUBOYZ>-*> #?#<3 albums#?#
+FAILURE: <*-<NU’EST>-*> was not found, contains unexpected charecters: :?:NU'EST:?:
+FAILURE: <*-<Namgida Band>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Nasty Nasty>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Nazca>-*> was not found, instead found #?#I NEV Ler)#?#
+FAILURE: <*-<NeonBlack>-*> was not found, contains unexpected charecters: :?:IN feYe) a] 0) F=\os 54:?:
+SUCCESS: <*-<NeonPunch>-*> was found, coping songs
+FAILURE: <*-<NeonPunch>-*> #?#<3 albums#?#
+SUCCESS: <*-<Nep>-*> was found, coping songs
+FAILURE: <*-<Nep>-*> #?#<3 albums#?#
+SUCCESS: <*-<New-A>-*> was found, coping songs
+FAILURE: <*-<New-A>-*> #?#<3 albums#?#
+FAILURE: <*-<New.F.O>-*> was not found, instead found #?#New Found Glory#?#
+FAILURE: <*-<NewBlood>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<NewTownBoyz>-*> was found, coping songs
+FAILURE: <*-<NewTownBoyz>-*> #?#<3 albums#?#
+FAILURE: <*-<Newkidd>-*> was not found, instead found #?#NewkKidd#?#
+FAILURE: <*-<Nine Muses>-*> was not found, instead found #?#QMUSES#?#
+FAILURE: <*-<Nine Muses A>-*> was not found, instead found #?#QMUSES#?#
+SUCCESS: <*-<NiziU>-*> was found, coping songs
+FAILURE: <*-<Noel>-*> was not found, contains unexpected charecters: :?:IN for=):?:
+FAILURE: <*-<Nonstop>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Notice>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<O My Jewel>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<O-24>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<O21>-*> was not found, instead found #?#021#?#
+FAILURE: <*-<OAHSIS>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<OFF THE CUFF>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<OG SCHOOL PROJECT>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<OH MY GIRL>-*> was found, coping songs
+SUCCESS: <*-<OMEGA X>-*> was found, coping songs
+FAILURE: <*-<ON AIR>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<ONE>-*> was not found, instead found #?#ONEWE#?#
+SUCCESS: <*-<ONEUS>-*> was found, coping songs
+SUCCESS: <*-<ONEWE>-*> was found, coping songs
+SUCCESS: <*-<ONF>-*> was found, coping songs
+FAILURE: <*-<ONO GIRLZ>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Offroad>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Oh!Bliss>-*> was not found, instead found #?#iO) alaatel#?#
+FAILURE: <*-<Oh!GG>-*> was not found, contains unexpected charecters: :?:Girls' Generation-Oh'GG:?:
+FAILURE: <*-<On Top>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<One Day>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<One O One>-*> was found, coping songs
+FAILURE: <*-<One O One>-*> #?#<3 albums#?#
+SUCCESS: <*-<OnlyOneOf>-*> was found, coping songs
+SUCCESS: <*-<Orange Caramel>-*> was found, coping songs
+FAILURE: <*-<P NATION LOUD>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<P.O.P>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<P1Harmony>-*> was not found, instead found #?#PiHarmony#?#
+FAILURE: <*-<PAPAYA>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<PARADISE>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<PEACE>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<PEACHDAY>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<PENTAGON>-*> was found, coping songs
+FAILURE: <*-<PIERCE>-*> was not found, instead found #?#Pierce The Veil#?#
+FAILURE: <*-<PIT A PAT>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<PIXY>-*> was found, coping songs
+FAILURE: <*-<PLAIN>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<PLATINUM78>-*> was not found, instead found #?#edFeLalalelaam siieyate (sy#?#
+SUCCESS: <*-<PLT>-*> was found, coping songs
+FAILURE: <*-<PPL>-*> was not found, instead found #?#ce) (oh#?#
+SUCCESS: <*-<PRECIOUS>-*> was found, coping songs
+FAILURE: <*-<PRECIOUS>-*> #?#<3 albums#?#
+FAILURE: <*-<PRISM>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<PRISMA>-*> was found, coping songs
+FAILURE: <*-<PRISMA>-*> #?#<3 albums#?#
+SUCCESS: <*-<PRISTIN>-*> was found, coping songs
+FAILURE: <*-<PRISTIN>-*> #?#<3 albums#?#
+SUCCESS: <*-<PRITTI-G>-*> was found, coping songs
+FAILURE: <*-<PRITTI-G>-*> #?#<3 albums#?#
+SUCCESS: <*-<PRITZ>-*> was found, coping songs
+SUCCESS: <*-<PRSNT>-*> was found, coping songs
+FAILURE: <*-<PUREBOY>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<PURETTY>-*> was found, coping songs
+FAILURE: <*-<PURETTY>-*> #?#<3 albums#?#
+FAILURE: <*-<PURPLE>-*> was not found, instead found #?#PURPLE KISS#?#
+FAILURE: <*-<PURPLE K!SS>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<PURPLEBECK>-*> was found, coping songs
+FAILURE: <*-<Page>-*> was not found, instead found #?#Page Kennedy#?#
+FAILURE: <*-<Pandora>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Peach Girl>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<People on the Bridge>-*> was not found, instead found #?#ec-Xo) o)(-Kelamtal-m sialetel-)#?#
+SUCCESS: <*-<Peppertones>-*> was found, coping songs
+SUCCESS: <*-<Perfume>-*> was found, coping songs
+FAILURE: <*-<Perfume de Ange>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Phantom>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Piggy Dolls>-*> was found, coping songs
+FAILURE: <*-<Pink Bling>-*> was not found, instead found #?#Pinky Bling#?#
+SUCCESS: <*-<PinkFantasy>-*> was found, coping songs
+SUCCESS: <*-<Play the Siren>-*> was found, coping songs
+FAILURE: <*-<PlayM BOYS>-*> was not found, instead found #?#Playmoboys#?#
+FAILURE: <*-<Playback>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Pocket Girls>-*> was found, coping songs
+FAILURE: <*-<Pocket Girls>-*> #?#<3 albums#?#
+FAILURE: <*-<Poco a poco>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<PoshGirls>-*> was not found, instead found #?#exsarellals#?#
+FAILURE: <*-<Pretty>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Pristin V>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Proxima Club>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Pungdeng-E>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Purfles>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Purplay>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Purple Kiss>-*> was found, coping songs
+SUCCESS: <*-<Q6IX>-*> was found, coping songs
+FAILURE: <*-<Q6IX>-*> #?#<3 albums#?#
+SUCCESS: <*-<QODES>-*> was found, coping songs
+FAILURE: <*-<Queen B'Z>-*> was not found, contains unexpected charecters: :?:Queen B'Z:?:
+FAILURE: <*-<Queendom>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<R.ef>-*> was found, coping songs
+FAILURE: <*-<R.ef>-*> #?#<3 albums#?#
+SUCCESS: <*-<RAINZ>-*> was found, coping songs
+FAILURE: <*-<RE:KIDS ANGEL>-*> was not found, contains unexpected charecters: :?:RE:KIDS ANGEL(2|7|Z ol):?:
+FAILURE: <*-<RE:KIDS BLOOM>-*> was not found, contains unexpected charecters: :?:2|7|2 25 (RE:KIDS BLOOM):?:
+SUCCESS: <*-<RE:KIDS CRYSTAL>-*> was found, coping songs
+FAILURE: <*-<RE:KIDS CRYSTAL>-*> #?#<3 albums#?#
+SUCCESS: <*-<RE:KIDS DREAM>-*> was found, coping songs
+FAILURE: <*-<RE:KIDS DREAM>-*> #?#<3 albums#?#
+FAILURE: <*-<RE:KIDS HERO>-*> was not found, contains unexpected charecters: :?:2|7|Z 5|01= (RE:KIDS HERO):?:
+SUCCESS: <*-<REDSQUARE>-*> was found, coping songs
+FAILURE: <*-<REDSQUARE>-*> #?#<3 albums#?#
+FAILURE: <*-<ROMEO>-*> was not found, instead found #?#Romeo Santos#?#
+FAILURE: <*-<RaNia>-*> was not found, instead found #?#Stel ales)#?#
+SUCCESS: <*-<Rainbow>-*> was found, coping songs
+FAILURE: <*-<Ramisu>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Real Girls Project>-*> was found, coping songs
+FAILURE: <*-<Red Mint>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Red Velvet>-*> was found, coping songs
+FAILURE: <*-<Red Velvet – IRENE & SEULGI>-*> was not found, contains unexpected charecters: :?:Red Velvet - IRENE & SEULGI:?:
+FAILURE: <*-<Refiners>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Refund Sisters>-*> was found, coping songs
+FAILURE: <*-<Refund Sisters>-*> #?#<3 albums#?#
+FAILURE: <*-<Rendezvous>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Rhea>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Rhythm Power>-*> was found, coping songs
+SUCCESS: <*-<Rion Five>-*> was found, coping songs
+FAILURE: <*-<Rion Five>-*> #?#<3 albums#?#
+FAILURE: <*-<RoaD-B>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Road Boyz>-*> was found, coping songs
+SUCCESS: <*-<Rocket Punch>-*> was found, coping songs
+FAILURE: <*-<Rocking Doll>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Rockit Girl>-*> was not found, instead found #?#over (im eliag#?#
+FAILURE: <*-<Roo'Ra>-*> was not found, contains unexpected charecters: :?:Roo'RA:?:
+FAILURE: <*-<Rookie>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Root Sixteen>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Rose Finger>-*> was found, coping songs
+FAILURE: <*-<Rose Finger>-*> #?#<3 albums#?#
+SUCCESS: <*-<Royal Pirates>-*> was found, coping songs
+SUCCESS: <*-<Rubber Soul>-*> was found, coping songs
+SUCCESS: <*-<Rumble-G>-*> was found, coping songs
+FAILURE: <*-<Rumble-G>-*> #?#<3 albums#?#
+FAILURE: <*-<S.Blush>-*> was not found, contains unexpected charecters: :?:= }@):?:
+FAILURE: <*-<S.E.S.>-*> was not found, instead found #?##?#
+FAILURE: <*-<S.E.T>-*> was not found, instead found #?##?#
+FAILURE: <*-<S.I.S>-*> was not found, instead found #?#S.I.S.#?#
+FAILURE: <*-<S.O.U.L>-*> was not found, instead found #?#SROAURE#?#
+FAILURE: <*-<S2>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<S2U>-*> was not found, instead found #?#Sy 0)#?#
+SUCCESS: <*-<SATURDAY>-*> was found, coping songs
+SUCCESS: <*-<SECHSKIES>-*> was found, coping songs
+SUCCESS: <*-<SECRET>-*> was found, coping songs
+SUCCESS: <*-<SECRET NUMBER>-*> was found, coping songs
+SUCCESS: <*-<SEVENTEEN>-*> was found, coping songs
+SUCCESS: <*-<SF9>-*> was found, coping songs
+FAILURE: <*-<SF9>-*> #?#<3 albums#?#
+FAILURE: <*-<SG Girls>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<SG Wannabe>-*> was not found, instead found #?#OM ETalar:) els#?#
+SUCCESS: <*-<SHA SHA>-*> was found, coping songs
+FAILURE: <*-<SHADOW>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<SHAX>-*> was found, coping songs
+FAILURE: <*-<SHAX>-*> #?#<3 albums#?#
+SUCCESS: <*-<SHINHWA>-*> was found, coping songs
+FAILURE: <*-<SHINVI>-*> was not found, instead found #?#shinigami#?#
+SUCCESS: <*-<SHINee>-*> was found, coping songs
+FAILURE: <*-<SIGMA>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<SIGNAL>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<SIOSIJAK>-*> was not found, instead found #?#STON ATAN#?#
+SUCCESS: <*-<SISTAR>-*> was found, coping songs
+FAILURE: <*-<SKYGIRLS>-*> was not found, instead found #?#SKY GIRLS#?#
+FAILURE: <*-<SKYLE>-*> was not found, contains unexpected charecters: :?:<1.048 =:?:
+SUCCESS: <*-<SKarf>-*> was found, coping songs
+FAILURE: <*-<SKarf>-*> #?#<3 albums#?#
+FAILURE: <*-<SM Rookies>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<SM The Performance>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<SM Town>-*> was not found, instead found #?#SMTOWN#?#
+FAILURE: <*-<SM the Ballad>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<SNUPER>-*> was found, coping songs
+FAILURE: <*-<SOLIA>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<SONAMOO>-*> was found, coping songs
+FAILURE: <*-<SONOKI>-*> was not found, contains unexpected charecters: :?:S10] \\(e)(@):?:
+FAILURE: <*-<SOS>-*> was not found, instead found #?#The S.O.S Band#?#
+FAILURE: <*-<SPARKLING>-*> was not found, contains unexpected charecters: :?:Yer-Ta dilate]:?:
+SUCCESS: <*-<SPECTRUM>-*> was found, coping songs
+SUCCESS: <*-<SPEED>-*> was found, coping songs
+SUCCESS: <*-<SPICA>-*> was found, coping songs
+FAILURE: <*-<SPICA>-*> #?#<3 albums#?#
+FAILURE: <*-<SS501>-*> was not found, contains unexpected charecters: :?:$$501:?:
+FAILURE: <*-<SSAK3>-*> was not found, instead found #?#SSAKS#?#
+SUCCESS: <*-<STAYC>-*> was found, coping songs
+FAILURE: <*-<SUPA>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<SUPERKIDS>-*> was not found, instead found #?#The Superkids#?#
+SUCCESS: <*-<SUPERNOVA>-*> was found, coping songs
+SUCCESS: <*-<SURPRISE U>-*> was found, coping songs
+FAILURE: <*-<SURPRISE U>-*> #?#<3 albums#?#
+SUCCESS: <*-<SWAN>-*> was found, coping songs
+FAILURE: <*-<SWAY>-*> was not found, instead found #?#NAAN G#?#
+FAILURE: <*-<Scarlet>-*> was not found, instead found #?#beYor: Ta (sys#?#
+FAILURE: <*-<Se Se Se>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Sea Park>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Second Moon>-*> was not found, instead found #?#2nd Moon#?#
+FAILURE: <*-<See U>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<SeeYa>-*> was not found, instead found #?#SZA#?#
+SUCCESS: <*-<Seo Taiji and Boys>-*> was found, coping songs
+FAILURE: <*-<Seven O'Clock>-*> was not found, contains unexpected charecters: :?:bSY-\V/-1 pM Os [oles 4:?:
+SUCCESS: <*-<ShaFLA>-*> was found, coping songs
+FAILURE: <*-<ShaFLA>-*> #?#<3 albums#?#
+FAILURE: <*-<Sharp>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<She'Z>-*> was not found, instead found #?#SZA#?#
+FAILURE: <*-<Shu-I>-*> was not found, instead found #?#SZA#?#
+FAILURE: <*-<Silhouette>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Sistar19>-*> was found, coping songs
+FAILURE: <*-<Sistar19>-*> #?#<3 albums#?#
+SUCCESS: <*-<Six Bomb>-*> was found, coping songs
+FAILURE: <*-<Sobangcha>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Sol-T>-*> was found, coping songs
+FAILURE: <*-<Sol-T>-*> #?#<3 albums#?#
+FAILURE: <*-<Solid>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Sorea Band>-*> was found, coping songs
+FAILURE: <*-<Sour Sweet>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Stellar>-*> was found, coping songs
+FAILURE: <*-<Strawberry Milk>-*> was not found, instead found #?#Strawberry Milk Cult#?#
+SUCCESS: <*-<Stray Kids>-*> was found, coping songs
+FAILURE: <*-<Sugar>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Sugar Moon>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Sugar Tint>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Sunny Days>-*> was not found, contains unexpected charecters: :?:Sunny Days ML|G]0|2:?:
+SUCCESS: <*-<Sunny Hill>-*> was found, coping songs
+FAILURE: <*-<Sunny Play>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Sunshine>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Super Five>-*> was found, coping songs
+FAILURE: <*-<Super Five>-*> #?#<3 albums#?#
+SUCCESS: <*-<Super Junior>-*> was found, coping songs
+FAILURE: <*-<Super Junior-D&E>-*> was not found, contains unexpected charecters: :?:SUPER JUNIOR-D&E:?:
+FAILURE: <*-<Super Junior-H>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Super Junior-K.R.Y.>-*> was found, coping songs
+SUCCESS: <*-<Super Junior-M>-*> was found, coping songs
+FAILURE: <*-<Super Junior-M>-*> #?#<3 albums#?# 
+SUCCESS: <*-<Super Junior-T>-*> was found, coping songs
+FAILURE: <*-<Super Junior-T>-*> #?#<3 albums#?# 
+FAILURE: <*-<SuperM>-*> was not found, contains unexpected charecters: :?:TUT oY =) 8 \¥/|:?:
+FAILURE: <*-<Swalla>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Swi.T>-*> was found, coping songs
+FAILURE: <*-<Swi.T>-*> #?#<3 albums#?# 
+FAILURE: <*-<Switch Berry>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<T-ARA>-*> was found, coping songs
+SUCCESS: <*-<T-MAX>-*> was found, coping songs
+FAILURE: <*-<T-MAX>-*> #?#<3 albums#?# 
+FAILURE: <*-<T.A.N>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<T.E.N>-*> was not found, instead found #?#T.E.N (With Rionfive)#?#
+SUCCESS: <*-<T.O.P Girls>-*> was found, coping songs
+FAILURE: <*-<T.O.P Girls>-*> #?#<3 albums#?# 
+SUCCESS: <*-<T.T.Ma>-*> was found, coping songs
+FAILURE: <*-<T.T.Ma>-*> #?#<3 albums#?# 
+SUCCESS: <*-<T1419>-*> was found, coping songs
+SUCCESS: <*-<TARGET>-*> was found, coping songs
+FAILURE: <*-<TEAPARTY>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<TEEN TOP>-*> was found, coping songs
+FAILURE: <*-<TEMPEST>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<THE BOYZ>-*> was not found, contains unexpected charecters: :?:Sin | = 10) 4:?:
+FAILURE: <*-<THE FIX>-*> was not found, instead found #?#The Fixx#?#
+FAILURE: <*-<THE GLOSS>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<THE MAN BLK>-*> was found, coping songs
+SUCCESS: <*-<TINT>-*> was found, coping songs
+FAILURE: <*-<TINT>-*> #?#<3 albums#?# 
+FAILURE: <*-<TO.1>-*> was not found, contains unexpected charecters: :?:TO!:?:
+FAILURE: <*-<TO1>-*> was not found, contains unexpected charecters: :?:Boyan '/F-\es Bxeyar-\(e|:?:
+FAILURE: <*-<TOO>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<TOP GIRL>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<TRCNG>-*> was found, coping songs
+SUCCESS: <*-<TREASURE>-*> was found, coping songs
+FAILURE: <*-<TREI>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<TREN-D>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<TRENDZ>-*> was found, coping songs
+FAILURE: <*-<TRENDZ>-*> #?#<3 albums#?# 
+SUCCESS: <*-<TRI.BE>-*> was found, coping songs
+FAILURE: <*-<TRIPLEME>-*> was not found, instead found #?#Trip Lee#?#
+SUCCESS: <*-<TRITOPS>-*> was found, coping songs
+FAILURE: <*-<TROPICAL>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<TROY>-*> was not found, instead found #?##?#
+SUCCESS: <*-<TST>-*> was found, coping songs
+FAILURE: <*-<TURAN>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<TVXQ>-*> was not found, contains unexpected charecters: :?:TVXQ!:?:
+FAILURE: <*-<TVXQ!>-*> was not found, contains unexpected charecters: :?:TVXQ!:?:
+SUCCESS: <*-<TWEETY>-*> was found, coping songs
+SUCCESS: <*-<TWICE>-*> was found, coping songs
+FAILURE: <*-<TXT>-*> was not found, contains unexpected charecters: :?:BO) (0) (O) > rele aaa ait:?:
+SUCCESS: <*-<Tahiti>-*> was found, coping songs
+SUCCESS: <*-<Tasty>-*> was found, coping songs
+SUCCESS: <*-<Teen Teen>-*> was found, coping songs
+FAILURE: <*-<Teen Teen>-*> #?#<3 albums#?# 
+SUCCESS: <*-<TeensEL>-*> was found, coping songs
+FAILURE: <*-<TeensEL>-*> #?#<3 albums#?# 
+FAILURE: <*-<Ten-X>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<The Ark>-*> was not found, instead found #?#The Weeknd#?#
+FAILURE: <*-<The Boss>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<The Grace>-*> was not found, instead found #?#CSJH The Grace#?#
+FAILURE: <*-<The King>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<The LEGEND>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<The Lush>-*> was found, coping songs
+FAILURE: <*-<The Pink Lady>-*> was not found, instead found #?#The Pink Lady Apple House#?#
+SUCCESS: <*-<The Rose>-*> was found, coping songs
+SUCCESS: <*-<The SeeYa>-*> was found, coping songs
+FAILURE: <*-<The Starz>-*> was not found, instead found #?#The Starzone#?#
+FAILURE: <*-<The T-Bird>-*> was not found, instead found #?#The Birdsongs#?#
+FAILURE: <*-<The Whales>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<TheEastLight.>-*> was found, coping songs
+FAILURE: <*-<Tier 4>-*> was not found, instead found #?#Tierra Cali#?#
+SUCCESS: <*-<Tin Tin Five>-*> was found, coping songs
+FAILURE: <*-<Tin Tin Five>-*> #?#<3 albums#?# 
+FAILURE: <*-<Tiny-G>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<To-Ya>-*> was not found, instead found #?#Be) d(e#?#
+FAILURE: <*-<Toheart>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Tomorrow X Together>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Touch>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Toy>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Trainee A>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<TraxX>-*> was not found, instead found #?#air:).0,4#?#
+FAILURE: <*-<Triger>-*> was not found, contains unexpected charecters: :?:Triger (£2|74):?:
+SUCCESS: <*-<Triple H>-*> was found, coping songs
+FAILURE: <*-<Triple H>-*> #?#<3 albums#?# 
+FAILURE: <*-<Triple7>-*> was not found, instead found #?#777 (Triple Seven)#?#
+FAILURE: <*-<Trophy>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Trouble Maker>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Trusty>-*> was found, coping songs
+SUCCESS: <*-<Turbo>-*> was found, coping songs
+FAILURE: <*-<Tutti>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Twinkle>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Two Two>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Two X>-*> was found, coping songs
+FAILURE: <*-<Two X>-*> #?#<3 albums#?# 
+SUCCESS: <*-<Typhoon>-*> was found, coping songs
+FAILURE: <*-<U-HOO>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<U-KISS>-*> was found, coping songs
+FAILURE: <*-<U-US>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<U.A>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<UN>-*> was not found, instead found #?#UNKNOWN#?#
+SUCCESS: <*-<UNB>-*> was found, coping songs
+FAILURE: <*-<UNB>-*> #?#<3 albums#?# 
+FAILURE: <*-<UNI>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<UNI.T>-*> was found, coping songs
+FAILURE: <*-<UNI.T>-*> #?#<3 albums#?# 
+FAILURE: <*-<UNICA>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<UNIQ>-*> was not found, instead found #?#Unique Salonga#?#
+SUCCESS: <*-<UNIZ>-*> was found, coping songs
+FAILURE: <*-<UNIZ>-*> #?#<3 albums#?# 
+SUCCESS: <*-<UNVS>-*> was found, coping songs
+FAILURE: <*-<UP10TION>-*> was not found, instead found #?#UPIOTION#?#
+FAILURE: <*-<USSO.BOY>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<UTH>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Underdog>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Unicorn>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Unnies>-*> was found, coping songs
+FAILURE: <*-<Unnies>-*> #?#<3 albums#?# 
+SUCCESS: <*-<Urban Zakapa>-*> was found, coping songs
+FAILURE: <*-<Ureka>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<V>-*> was not found, instead found #?##?#
+FAILURE: <*-<V.O.S>-*> was not found, instead found #?#WAORS#?#
+SUCCESS: <*-<VANNER>-*> was found, coping songs
+FAILURE: <*-<VANNER>-*> #?#<3 albums#?# 
+FAILURE: <*-<VARSITY>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<VAV>-*> was found, coping songs
+FAILURE: <*-<VERITAS>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<VERIVERY>-*> was found, coping songs
+SUCCESS: <*-<VERMUDA>-*> was found, coping songs
+FAILURE: <*-<VERMUDA>-*> #?#<3 albums#?# 
+FAILURE: <*-<VICTON>-*> was not found, contains unexpected charecters: :?:i (eare)\\:?:
+FAILURE: <*-<VIOLET>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<VIVA>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<VIVIDIVA>-*> was found, coping songs
+FAILURE: <*-<VIVIDIVA>-*> #?#<3 albums#?# 
+FAILURE: <*-<VIVIZ>-*> was not found, instead found #?#GFRIEND#?#
+SUCCESS: <*-<VIXX>-*> was found, coping songs
+SUCCESS: <*-<VIXX LR>-*> was found, coping songs
+FAILURE: <*-<VIXX LR>-*> #?#<3 albums#?# 
+FAILURE: <*-<VLBY>-*> was not found, instead found #?#VLNY#?#
+SUCCESS: <*-<VOISPER>-*> was found, coping songs
+SUCCESS: <*-<VROMANCE>-*> was found, coping songs
+FAILURE: <*-<VX>-*> was not found, instead found #?#VXON#?#
+FAILURE: <*-<Vanilla>-*> was not found, instead found #?#Vanilla Ice#?#
+FAILURE: <*-<Vanilla Lucy>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Various>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Venus>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Vetty-L>-*> was not found, instead found #?#Vetty L#?#
+FAILURE: <*-<Vitamin>-*> was not found, instead found #?#Vitamin String Quartet#?#
+FAILURE: <*-<W.A.O>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<W.I.T>-*> was not found, instead found #?#W.LT.#?#
+SUCCESS: <*-<W24>-*> was found, coping songs
+FAILURE: <*-<WANNA.B>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<WE IN THE ZONE>-*> was found, coping songs
+FAILURE: <*-<WEi>-*> was not found, instead found #?##?#
+SUCCESS: <*-<WINNER>-*> was found, coping songs
+FAILURE: <*-<WIZ N>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<WJMK>-*> was found, coping songs
+FAILURE: <*-<WJMK>-*> #?#<3 albums#?# 
+SUCCESS: <*-<WJSN>-*> was found, coping songs
+FAILURE: <*-<WJSN Chocome>-*> was not found, instead found #?#AYAVA KS) Os sYorere) gal 3#?#
+SUCCESS: <*-<WJSN THE BLACK>-*> was found, coping songs
+FAILURE: <*-<WJSN THE BLACK>-*> #?#<3 albums#?# 
+FAILURE: <*-<WOW>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Wanna One>-*> was found, coping songs
+FAILURE: <*-<Wanted>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Wassup>-*> was not found, instead found #?#Wassup Rocker#?#
+FAILURE: <*-<WayV>-*> was not found, instead found #?#EWAN#?#
+FAILURE: <*-<We Girls>-*> was not found, instead found #?#AVM etials#?#
+SUCCESS: <*-<Weeekly>-*> was found, coping songs
+SUCCESS: <*-<Weki Meki>-*> was found, coping songs
+FAILURE: <*-<Welldone Potato>-*> was not found, contains unexpected charecters: :?:WVAY/=\[ fo lolayoM meyesive):?:
+FAILURE: <*-<White Day Project>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Whiteday>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Wings>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<WishGirls>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Witchers>-*> was not found, instead found #?#Witchers Creed#?#
+FAILURE: <*-<With Me>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<Withus>-*> was found, coping songs
+FAILURE: <*-<WizarD>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Wonder Boyz>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Wonder Girls>-*> was not found, contains unexpected charecters: :?:Ma fo)ave (=) Ctl ats:?:
+FAILURE: <*-<Woo!ah!>-*> was not found, contains unexpected charecters: :?:VVreve}i-] a}:?:
+SUCCESS: <*-<Wooseok x Kuanlin>-*> was found, coping songs
+FAILURE: <*-<Wooseok x Kuanlin>-*> #?#<3 albums#?# 
+FAILURE: <*-<X1>-*> was not found, instead found #?##?#
+FAILURE: <*-<XENEX>-*> was not found, instead found #?#ALIA XENEX#?#
+SUCCESS: <*-<XENO-T>-*> was found, coping songs
+FAILURE: <*-<XENO-T>-*> #?#<3 albums#?# 
+FAILURE: <*-<XING>-*> was not found, instead found #?#XING KONG#?#
+SUCCESS: <*-<XUM>-*> was found, coping songs
+FAILURE: <*-<XUM>-*> #?#<3 albums#?# 
+FAILURE: <*-<XoX>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Xst>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Y&W>-*> was not found, contains unexpected charecters: :?:Y&W:?:
+FAILURE: <*-<YDPP>-*> was not found, instead found #?#YDPP (JEONG SEWOON#?#
+FAILURE: <*-<YJIG>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<YOUNGEST>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<YPDA>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<YULiONi>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Ye-A>-*> was not found, instead found #?#Ye Ali#?#
+FAILURE: <*-<Year 7 Class 1>-*> was not found, instead found #?#Year7 Class1#?#
+SUCCESS: <*-<Yellow Bee>-*> was found, coping songs
+FAILURE: <*-<Yeowooya>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<Young Turks Club>-*> was not found, instead found #?#YOUNGTURKS CLUB#?#
+SUCCESS: <*-<Yurisangja>-*> was found, coping songs
+SUCCESS: <*-<Z-Boys>-*> was found, coping songs
+FAILURE: <*-<Z-Boys>-*> #?#<3 albums#?# 
+SUCCESS: <*-<Z-Girls>-*> was found, coping songs
+FAILURE: <*-<Z-Girls>-*> #?#<3 albums#?# 
+FAILURE: <*-<ZE:A>-*> was not found, contains unexpected charecters: :?:A = AN:?:
+FAILURE: <*-<ZEROSIX>-*> was not found, contains unexpected charecters: :?:74£-\g0)~)).4:?:
+FAILURE: <*-<ZEST>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<ZIOLETTA>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+SUCCESS: <*-<ZPZG>-*> was found, coping songs
+FAILURE: <*-<ZPZG>-*> #?#<3 albums#?# 
+FAILURE: <*-<ZZBae>-*> was not found, 1st option was :?:NOT an ARTIST:?:
+FAILURE: <*-<fromis_9>-*> was not found, contains unexpected charecters: :?:fromis_9:?:
+SUCCESS: <*-<iKON>-*> was found, coping songs

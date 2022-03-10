@@ -1,0 +1,37 @@
+>>>>>>POTENTIAL PROBLEMS FOR SPOTIFY:
+
+NEED TO INCLUDE SOLO SINGERS
+
+________________________
+might give a different artist for a search(Romeo), we have to check that an artist does kpop
+________________________
+
+
+
+
+text recognition may not understand Korean
+
+some artists may not show up in spotify search(would instead click on an album, and mess up the whole program)(ex. Super Junior-H, Romeo)
+^^^^^^^^^^^^^
+need to have a system where first checks that the artist is found!!!
+
+if a group has less than 3 playlists, discography will be in a different place
+
+should probably first show all songs that will remove, then remove them:
+in case the way we serched for songs to remove includes a good song.
+
+
+>>>>>>>ADDITIONAL IMPROVEMENTS:
+
+should probably have a detailed log, to A) make sure every song gets added, and then remain after removal of copies, B) if breaks, we know what broke, C) we know if an artist is not detected or if a song is not added
+
+
+use UI to navigate:
+problem:  we dont know # of albums or songs
+solution: can detect green play button
+
+
+
+
+GODLY WEBSITE:
+https://kprofiles.com/k-pop-girl-groups/
