@@ -16,12 +16,10 @@ def html():
     return x
 
 list = []
-#print(list)
 
 def type():
     global list
     #may edit this time.sleep() to your liking
-    #makes it seem more realistic
     #0.03 has a max speed of 240(for reference)
     time.sleep(0.03)
     if len(list) == 0:

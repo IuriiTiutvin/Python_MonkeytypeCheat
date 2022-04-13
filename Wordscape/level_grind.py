@@ -21,29 +21,31 @@ brown_upper = np.array([97,1,47])
 kernel = np.ones((5,5), np.uint8)
 previous_string = ''
 
-
+    
 def start():
-    side = PIL.ImageGrab.grab(bbox = (880, 1500, 881, 1501)).convert("RGB").getpixel((0,0))
-    mid = PIL.ImageGrab.grab(bbox = (1280, 1500, 1281, 1501)).convert("RGB").getpixel((0,0))
+    left = PIL.ImageGrab.grab(bbox = (880, 1500, 881, 1501)).convert("RGB").getpixel((0,0))
+    right = PIL.ImageGrab.grab(bbox = (1640, 1520, 1641, 1521)).convert("RGB").getpixel((0,0))
     #print(side, mid)
-    if side == (255, 255, 255):
+    if left == (255, 255, 255):
         return
-    elif mid == (255, 255, 255):
+    if right == (255, 255, 255):
         p.click(640, 450)
         time.sleep(0.5)
         p.click(640, 640)
         return
     else:
+        time.sleep(12)
         while True:
             p.press('esc')
-            time.sleep(1)
-            mid = PIL.ImageGrab.grab(bbox = (1280, 1500, 1281, 1501)).convert("RGB").getpixel((0,0))
+            p.click(640, 640)
+            time.sleep(3)
+            right = PIL.ImageGrab.grab(bbox = (1640, 1520, 1641, 1521)).convert("RGB").getpixel((0,0))
             #print(mid)
-            if mid == (255, 255, 255):
+            if right == (255, 255, 255):
                 p.click(640, 450)
                 time.sleep(0.5)
                 p.click(640, 640)
-                break
+                return
 
 
 #seems perfect
@@ -128,15 +130,16 @@ def word_prntr(coordinates, words):
     print(words)
     for i in words:
         print(i)
-        #time.sleep(0.1)
+        time.sleep(0.1)
         p.moveTo(coordinates.get(i[0])[0][0], coordinates.get(i[0])[0][1])
         coordinates[i[0]] = coordinates[i[0]][1:] + [coordinates[i[0]][0]]
         p.mouseDown()
         for j in i[1:]:
-            #time.sleep(0.04)
+            time.sleep(0.04)
             p.moveTo(coordinates.get(j)[0][0], coordinates.get(j)[0][1])
             coordinates[j] = coordinates[j][1:] + [coordinates[j][0]]
         p.mouseUp()
+    p.press('esc')
     p.press('esc')
     time.sleep(3)
 

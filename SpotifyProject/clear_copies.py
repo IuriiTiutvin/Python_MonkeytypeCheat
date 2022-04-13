@@ -8,9 +8,9 @@ import numpy as np
 import itertools as it
 
 mask = PIL.Image.open("mask.png")
-lower_val = np.array([0,0,0])
-upper_val = np.array([1,1,1])
-kernel = np.ones((5,5), np.uint8)
+lower_val = np.array([170,170,170])
+upper_val = np.array([180,180,180])
+kernel = np.ones((3,3), np.uint8)
 
 #must be manually set
 num_of_songs = 13208
@@ -22,7 +22,7 @@ def set_up():
     p.press('tab')
     p.keyUp('command')
     time.sleep(1)
-    p.moveTo(700, 270)
+    p.moveTo(600, 30)
     time.sleep(1)
     p.scroll(-10)
 
@@ -32,14 +32,14 @@ def read_num():
     global upper_val
     global kernel
 
-    main_image = PIL.ImageGrab.grab(bbox = (560, 200, 630, 300)).convert("RGB")
-
+    main_image = PIL.ImageGrab.grab(bbox = (560, 200, 640, 310)).convert("RGB")
     image = np.array(main_image)
 
-    letter_mask = cv2.inRange(image, lower_val, upper_val)
-    image = cv2.bitwise_not(letter_mask)
+    image = cv2.inRange(image, lower_val, upper_val)
+    image = cv2.bitwise_not(image)
+    #image = cv2.erode(image, kernel, iterations=1)
     cv2.imwrite('shot.png', image)
-    #image = cv2.erode(image, kernel, iterations=15)
+    print(pytesseract.image_to_string(image, config='--psm 6 -c tessedit_char_whitelist=0123456789'))
 
     _,binary = cv2.threshold(image,100,255,cv2.THRESH_BINARY)
     contours,hierarchy = cv2.findContours(binary,cv2.RETR_LIST,cv2.CHAIN_APPROX_SIMPLE)
@@ -50,7 +50,10 @@ def read_num():
 
 set_up()
 time.sleep(1)
-read_num()
+while True:
+    time.sleep(1)
+    read_num()
+    p.scroll(-7)
 #read/write commands
 '''
 f= open("guru99.txt","+")
